@@ -1,3 +1,5 @@
+//Ryan Boedeker Quiz1Question1
+
 import java.util.Scanner;
 public class QuarterBackRating {
 	
